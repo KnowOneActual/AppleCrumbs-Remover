@@ -23,7 +23,7 @@ That's it! No special software is needed.
 
 ## How to Use
 
-1.  Go to the [Releases page](https://github.com/KnowOneActual/AppleCrumbs-Remover/releases) of this repository.
+1.  Go to the [Releases page](https://github.com/KnowOneActual/AppleCrumbs-Remover-Windows/releases) of this repository.
 2.  Download the `CleanDrive.bat` file.
 3.  Double-click the `CleanDrive.bat` file to run it.
 4.  A command window will open and ask you to enter the drive letter for your flash drive (e.g., `E`).
